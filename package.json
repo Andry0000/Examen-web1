@@ -12,5 +12,13 @@
     "speedtyping"
   ],
   "author": "HEI Madagascar : Toky & Fiantso",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andry0000/Examen-web1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Andry0000/Examen-web1/issues"
+  },
+  "homepage": "https://github.com/Andry0000/Examen-web1#readme"
 }
